@@ -1,0 +1,15 @@
+{
+  "class_names": [
+    "Fresh",
+    "Lightly_heated",
+    "Moderately_heated",
+    "Heavily_heated",
+    "Severely_degraded"
+  ],
+  "oil_types": [
+    "castrol",
+    "mobil",
+    "unknown"
+  ],
+  "img_size": 224
+}

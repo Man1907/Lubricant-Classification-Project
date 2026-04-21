@@ -1,0 +1,11 @@
+{
+  "active_classes": [
+    "Fresh",
+    "Lightly_heated",
+    "Moderately_heated",
+    "Heavily_heated"
+  ],
+  "img_size": 224,
+  "n_samples": 104,
+  "feature_dim": 59
+}
